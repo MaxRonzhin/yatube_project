@@ -45,6 +45,5 @@ python3 manage.py runserver
 ### Автор
 MaxRonzhin 
 ***
-***
-***
-
+### Используемые Технологии:
+Python, Django
